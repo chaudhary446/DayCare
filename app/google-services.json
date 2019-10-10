@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339406232497",
+    "firebase_url": "https://daycare-cad65.firebaseio.com",
+    "project_id": "daycare-cad65",
+    "storage_bucket": "daycare-cad65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339406232497:android:22cf13ee79f7dc11",
+        "android_client_info": {
+          "package_name": "com.daycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339406232497-gbc1kibni2mu6nrvtd64bdu718nejumr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Eq238Uge9ufLuhPru3ZqZ06t7WsliiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

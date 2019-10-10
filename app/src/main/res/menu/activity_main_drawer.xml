@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home"
+            app:showAsAction="always"/>
+
+
+        <item android:id="@+id/nav_repaireApp"
+            android:title="Repair App"
+            android:icon="@drawable/repaier"
+            app:showAsAction="always"/>
+
+
+        <item android:id="@+id/nav_homework"
+            android:title="Homework"
+            android:icon="@drawable/home"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/nav_document"
+            android:title="Document"
+            android:icon="@drawable/document"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/nav_timetable"
+            android:title="Time Table"
+            android:icon="@drawable/timetable"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/nav_photo"
+            android:title="Photos"
+            android:icon="@drawable/photo"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/nav_resetmessage"
+            android:title="Reset message"
+            android:icon="@drawable/message"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/nav_circular"
+            android:title="Circular"
+            android:icon="@drawable/circular"
+            app:showAsAction="always"/>
+</menu>

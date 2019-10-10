@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_call"
+        android:icon="@drawable/ic_blur_circular_black_24dp"
+        android:title="Call" />
+    <item
+        android:id="@+id/action_text"
+        android:icon="@drawable/ic_photo_album_black_24dp"
+        android:title="Item"/>
+    <item
+        android:id="@+id/action_email"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Email" />
+</menu>
