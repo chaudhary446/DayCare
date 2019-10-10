@@ -38,6 +38,7 @@ public class AllPhotoActivity extends AppCompatActivity {
     Toolbar toolbar;
     LinearLayout rl_open,rl_cancle,rl_delete,rl_share;
     boolean isDeleted=false;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
